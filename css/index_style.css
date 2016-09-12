@@ -1,0 +1,18 @@
+
+article {
+	text-align:center;
+	margin-top:-20px;
+}
+body {
+	background-image: url("../img/congruent_pentagon.png");
+}
+
+/* para el carrusel */
+
+	.carousel-inner .item img,
+	.carousel-inner .item img               { width: 100%;}
+	.container .carousel-indicators .active { background-color:orange;}
+	.container .carousel-indicators li      { border: 1px solid orange;}
+	.container .panel-footer                { margin-top:20px;}
+
+#myCarousel {z-index:20;}

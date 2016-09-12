@@ -1,0 +1,14 @@
+body {
+	background-image: url("../img/congruent_pentagon.png");
+}
+.centro {
+	margin: 0 10%;
+	text-align: center;
+	color:#111111;
+}
+.imag {
+	width:90%;
+	max-width: 850px
+	height:auto;
+	
+}
